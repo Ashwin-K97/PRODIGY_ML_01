@@ -3,19 +3,12 @@
 
 This project implements a linear regression model to predict house prices based on various features such as square footage, number of bedrooms, number of bathrooms, etc.
 
-## Requirements
-
-- Python (>=3.6)
-- numpy (==1.21.5)
-- pandas (==1.3.5)
-- scikit-learn (==0.24.2)
-
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SLTDigitalLab/EKB.git
+git clone https://github.com/Ashwin-K97/PRODIGY_ML_01.git
 ```
 2. Navigate to cloned directory
 
